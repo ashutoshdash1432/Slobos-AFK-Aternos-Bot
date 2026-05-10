@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "luderick.aternos.host",
+    "ip": "185.107.194.13",
     "port": 57525,
     "version": "1.20.1",
     "try-creative": false
