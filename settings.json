@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AgeofSorceryReborn.aternos.me:57525",
+    "ip": "AgeofSorceryReborn.aternos.me",
     "port": 57525,
     "version": "1.20.1",
     "try-creative": false
